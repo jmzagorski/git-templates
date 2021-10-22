@@ -5,12 +5,14 @@
 
 `git clone https://github.com/jmzagorski/git-templates`
 
-**.gitconfig**
+
 Make sure to set the templatedir in your git configuration. Example:
 
+**.gitconfig:**\
 `
 [init]
-templatedir = ~/.git-templates
+templatedir = ~/git-templates
+`
 
 ## What do you get?
 
